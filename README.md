@@ -15,6 +15,8 @@ Create a SVG image after the user enters the parameters.
 ## Installation
 Clone the repository, and run npm i, run node index.js in the path with the index.js file
 ## Usage
+You want to see how to use it:
+https://drive.google.com/file/d/1zxBXS7UA5TbC6lWbG-YxVE7T8Ech4TGG/view
 ![alt text](Capture.PNG)
 ## Tests
 type npm test
